@@ -1,5 +1,4 @@
-# Binar FSW Challenge Chapter 4
-## Rock Paper Scissors Game w/ JavaScript, HTML & CSS
+# Rock Paper Scissors Game w/ JavaScript, HTML & CSS
 ### --------------------------------------------------------------------------------------------
 ## Implementing 
 ### - Object Oriented Programming w/ JavaScript (incl. Class, Method, If-else, Switch, Arrays, etc.)
